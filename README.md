@@ -19,6 +19,8 @@ This is my simple site which I made this with React & Vite. This shows the Cats 
 
 -----
 
+## Development 🛠🔨
+
 Quick start:
 
 ```
@@ -37,7 +39,6 @@ $ yarn dev
 # pnpm run dev
 ```
 
-## Development
 
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
