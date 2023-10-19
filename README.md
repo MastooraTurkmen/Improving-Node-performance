@@ -54,7 +54,7 @@ $ yarn watch
 # Clone this repository
 $ gh repo clone MastooraTurkmen/My-Cats
 
-
+# Go inside the repository
 
 ```
 
