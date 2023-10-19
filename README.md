@@ -39,7 +39,7 @@ This is my simple site which I made this with React & Vite. This shows the Cats 
 
 ### Mobile Version
 
-![Mobile Version Screenshot](Screenshot-1.png)
+![Mobile Version Screenshot](./src/screenshots/Screenshot-1.png)
 
 ### Tablet Version
 
