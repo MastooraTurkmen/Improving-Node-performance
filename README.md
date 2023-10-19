@@ -28,6 +28,10 @@ Currently, two official plugins are available:
 
 This is my simple site which I made this with React & Vite. This shows the Cats images with email and phone numbers :)
 
-### Mobile Versain
+### Mobile Version
 
-![Mobile versain Screenshot](Screenshot-1.png)
+![Mobile Version Screenshot](Screenshot-1.png)
+
+### Tablet Version
+
+![Tablet Version Screenshot](Screenshot-2.png)
