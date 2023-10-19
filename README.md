@@ -50,7 +50,11 @@ $ yarn watch
 
 ## Cloning the project 🔩 📪
 
+``
+# Clone this repository
 
+
+```
 
 -----
 
