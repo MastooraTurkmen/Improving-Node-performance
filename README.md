@@ -1,4 +1,4 @@
-# My Cats Emails
+# My Cats Email Addresses
 
 https://my-cats-emails.netlify.app/
 
