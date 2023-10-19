@@ -50,7 +50,7 @@ $ yarn watch
 
 ## Cloning the project 🔩 📪
 
-``
+```
 # Clone this repository
 $ gh repo clone MastooraTurkmen/My-Cats
 
@@ -58,6 +58,7 @@ $ gh repo clone MastooraTurkmen/My-Cats
 $ cd my-cats
 
 ```
+
 
 -----
 
