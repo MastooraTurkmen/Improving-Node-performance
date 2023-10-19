@@ -3,8 +3,15 @@
 Quick start:
 
 ```
-$ yarn # npm install
-$ yarn build # npm run build
+# pnpm create vite
+
+$ yarn
+# npm install
+# pnpm install
+
+$ yarn build
+# npm run build
+# pnpm run build
 ```
 
 ## Development
@@ -12,7 +19,7 @@ $ yarn build # npm run build
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch # npm run watch
+$ yarn watch # npm run watch # pnpm run watch
 ```
 
 # React + Vite
