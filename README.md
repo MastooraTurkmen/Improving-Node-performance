@@ -35,3 +35,7 @@ This is my simple site which I made this with React & Vite. This shows the Cats 
 ### Tablet Version
 
 ![Tablet Version Screenshot](Screenshot-2.png)
+
+### Desktop Version
+
+![Desktop Version Screenshot](Screenshot-3.png)
