@@ -47,4 +47,4 @@ This is my simple site which I made this with React & Vite. This shows the Cats 
 
 ### Desktop Version
 
-![Desktop Version Screenshot](Screenshot-3.png)
+![Desktop Version Screenshot](./src/screenshots/Screenshot-3.png)
