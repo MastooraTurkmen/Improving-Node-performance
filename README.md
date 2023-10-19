@@ -48,6 +48,10 @@ $ yarn watch
 ```
 
 
+## Cloning the project 🔩 📪
+
+
+
 -----
 
 # React + Vite
