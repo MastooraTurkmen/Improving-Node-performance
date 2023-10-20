@@ -87,6 +87,7 @@ $ cd my-cats
 3. Go to Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
+6. After selecting here you can see that the project **_Review configuration for My-Cats_** and then select the **_Deploy My-Cats_** Button.
 
 
 
