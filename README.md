@@ -67,8 +67,8 @@ $ cd my-cats
 1. **Launguages**
     + [HTML](https://github.com/topics/html)
     + [CSS](https://github.com/topics/css)
-
-
+    + [React](https://github.com/topics/react)
+    + [JavaScript](https://github.com/topics/javascript)
 
 -----
 
