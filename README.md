@@ -93,6 +93,7 @@ $ cd my-cats
 
 ## Author 👩🏻‍💻 
 **Mastoora Turkmen**  
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 
 
 # React + Vite
