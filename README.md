@@ -90,13 +90,7 @@ $ cd my-cats
 6. After selecting here you can see that the project **_Review configuration for My-Cats_** and then select the **_Deploy My-Cats_** Button.
 7. Now your project is Live.
 
-
-## Author 👩🏻‍💻 
-**Mastoora Turkmen**  
-[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
-[Github](https://github.com/MastooraTurkmen/) 
-[Twitter](https://twitter.com/MastooraJ22)
-
+------
 
 # React + Vite
 
@@ -108,3 +102,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 -----
+
+
+
+## Author 👩🏻‍💻 
+
+**Mastoora Turkmen**  
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
+[Github](https://github.com/MastooraTurkmen/) 
+[Twitter](https://twitter.com/MastooraJ22)
+
+
+
