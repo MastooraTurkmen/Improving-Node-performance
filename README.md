@@ -2,7 +2,7 @@
 
 https://my-cats-emails.netlify.app/
 
-This is my simple site which I made this with React & Vite. This shows the Cats images with email and phone numbers :)
+This is my simple site which I made with React & Vite. This shows the Cats' images with email and phone numbers :)
 
 ### Mobile Version
 
@@ -40,7 +40,7 @@ $ yarn dev
 ```
 
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+Run Webpack in watch mode to continually compile the JavaScript as you work:
 
 ```
 $ yarn watch 
@@ -64,9 +64,9 @@ $ cd my-cats
 
 -----
 
-## Launguages and Tools are used
+## Languages and Tools are used
 
-1. **Launguages**
+1. **Languages**
     + [HTML](https://github.com/topics/html)
     + [CSS](https://github.com/topics/css)
     + [React](https://github.com/topics/react)
@@ -82,9 +82,9 @@ $ cd my-cats
 
 ## Deployment📥
 
-1. How to deploy our project to netlify site?
+1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
-3. Go to Netlify site and select Add a new site.
+3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for My-Cats_** and then select the **_Deploy My-Cats_** Button.
