@@ -91,5 +91,3 @@ $ cd my-cats
 7. Now your project is Live.
 
 ------
-
-# React + Vite
