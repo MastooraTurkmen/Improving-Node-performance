@@ -16,8 +16,7 @@ This is my simple site which I made with React & Vite. This shows the Cats' imag
 
 ![Desktop Version Screenshot](./src/screenshots/Screenshot-3.png)
 
-
------
+---
 
 ## Development 🛠🔨
 
@@ -39,17 +38,15 @@ $ yarn dev
 # pnpm run dev
 ```
 
-
 Run Webpack in watch mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch 
-# npm run watch 
+$ yarn watch
+# npm run watch
 # pnpm run watch
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
-
 
 ## Cloning the project 🔩 📪
 
@@ -62,10 +59,8 @@ $ cd my-cats
 
 ```
 
------
+---
 
 ## Languages and Tools are used
 
 1. **Languages**
-    + [HTML](https://github.com/topics/html)
-
