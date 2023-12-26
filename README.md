@@ -56,9 +56,3 @@ $ gh repo clone MastooraTurkmen/My-Cats
 
 # Go inside the repository
 $ cd my-cats
-
-```
-
----
-
-## Languages and Tools are used
