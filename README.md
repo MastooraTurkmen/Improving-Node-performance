@@ -28,7 +28,3 @@ Quick start:
 $ yarn
 # npm install
 # pnpm install
-
-$ yarn build
-# npm run build
-# pnpm run build
