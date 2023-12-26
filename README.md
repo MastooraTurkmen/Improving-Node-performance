@@ -11,7 +11,3 @@ This is my simple site which I made with React & Vite. This shows the Cats' imag
 ### Tablet Version
 
 ![Tablet Version Screenshot](./src/screenshots/Screenshot-2.png)
-
-### Desktop Version
-
-![Desktop Version Screenshot](./src/screenshots/Screenshot-3.png)
