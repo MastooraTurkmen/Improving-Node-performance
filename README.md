@@ -68,5 +68,4 @@ $ cd my-cats
 
 1. **Languages**
     + [HTML](https://github.com/topics/html)
-    + [CSS](https://github.com/topics/css)
 
