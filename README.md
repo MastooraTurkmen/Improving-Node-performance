@@ -76,8 +76,3 @@ $ cd my-cats
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
-
------
-
-
-## Deployment📥
