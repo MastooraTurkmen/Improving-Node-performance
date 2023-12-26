@@ -21,10 +21,3 @@ This is my simple site which I made with React & Vite. This shows the Cats' imag
 ## Development 🛠🔨
 
 Quick start:
-
-```
-# pnpm create vite
-
-$ yarn
-# npm install
-# pnpm install
