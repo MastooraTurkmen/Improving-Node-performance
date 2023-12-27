@@ -9,9 +9,6 @@ export default function Contact(props) {
       <h3>{props.name}</h3>
       <div className="info-group">
         <img src={PhoneIcone} />
-        <p>{props.phone}</p>
-      </div>
-      <div className="info-group">
         <img src={MailIcon} />
         <p>{props.email}</p>
       </div>
