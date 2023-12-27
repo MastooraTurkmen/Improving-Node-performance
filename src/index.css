@@ -41,8 +41,3 @@ body {
   font-weight: 700;
   font-size: 18px;
 }
-
-.info-group {
-  display: flex;
-  align-items: center;
-}
