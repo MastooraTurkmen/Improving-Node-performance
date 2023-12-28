@@ -1,7 +1,6 @@
 function App() {
   return (
     <div className="contacts">
-      <Contact
         img={MrWhiskerson}
         name="Mr. Whiskerson"
         phone="(212) 555-1234"
