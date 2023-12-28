@@ -1,4 +1,3 @@
-import Fluffykins from "./images/fluffykins.png";
 import Pumpkin from "./images/pumpkin.png";
 
 function App() {
