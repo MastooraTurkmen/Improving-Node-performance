@@ -6,7 +6,6 @@ function App() {
         name="Mr. Whiskerson"
         phone="(212) 555-1234"
         email="mr.whiskaz@catnap.meow"
-      <Contact
         img={Fluffykins}
         name="Fluffykins"
         phone="(212) 555-2345"
