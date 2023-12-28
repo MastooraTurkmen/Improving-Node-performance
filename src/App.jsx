@@ -6,7 +6,6 @@ function App() {
         name="Mr. Whiskerson"
         phone="(212) 555-1234"
         email="mr.whiskaz@catnap.meow"
-        phone="(212) 555-2345"
         email="fluff@me.com"
       />
       <Contact
