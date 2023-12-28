@@ -1,5 +1,3 @@
-import Pumpkin from "./images/pumpkin.png";
-
 function App() {
   return (
     <div className="contacts">
