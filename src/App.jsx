@@ -1,7 +1,6 @@
 function App() {
   return (
     <div className="contacts">
-        name="Mr. Whiskerson"
         phone="(212) 555-1234"
         email="mr.whiskaz@catnap.meow"
       />
